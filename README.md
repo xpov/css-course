@@ -16,7 +16,7 @@ Aseprite is a versatile pixel art tool that empowers you to craft stunning 2D an
 
 ## Get Started
 
-1. Explore Aseprite's capabilities by visiting the [about page](about.html).
-2. Watch a video demonstration on the [video page](vid-page-section).
-3. Dive deeper into Aseprite by [downloading](product.html) it.
+1. Explore Aseprite's capabilities by visiting the about page.
+2. Watch a video demonstration on the video page.
+3. Dive deeper into Aseprite by downloading it.
 
